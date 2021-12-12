@@ -1,0 +1,45 @@
+  <footer id="contact">
+        <div class="full-width">
+          <div class="half-width">
+            <img src="img/contact-image.png" alt="contact" id="contact-image" />
+          </div>
+
+          <div class="half-width">
+            <h2>Like what you see?</h2>
+            <h3 id="email-header">Let's meet for a cup of coffee.</h3>
+            <a href="mailto:hi@jubileeausten.com">
+              <img src="img/envelope.png" alt="envelope" id="envelope" />hi [@]
+              jubileeausten.com</a
+            >
+
+            <h3 id="socialmedia-header">Or, find me on the interwebs</h3>
+            <ul>
+              <li>
+                <a href="http://www.twitter.com" target="BLANK"
+                  ><img src="img/twitter.png" alt="twitter"
+                /></a>
+              </li>
+              <li>
+                <a href="http://www.tumblr.com" target="BLANK"
+                  ><img src="img/tumblr.png" alt="tumblr"
+                /></a>
+              </li>
+              <li>
+                <a href="http://www.instagram.com" target="BLANK"
+                  ><img src="img/instagram.png" alt="instagram"
+                /></a>
+              </li>
+              <li>
+                <a href="http://www.linkedin.com" target="BLANK"
+                  ><img src="img/linkedin.png" alt="linkedin"
+                /></a>
+              </li>
+              <li>
+                <a href="http://www.github.com" target="BLANK"
+                  ><img src="img/github.png" alt="github"
+                /></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </footer>
